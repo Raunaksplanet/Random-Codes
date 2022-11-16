@@ -8,4 +8,4 @@ Proper question:- Q. Write a program to First enter array size then enter array 
 
 thank you for reading all this 
 see you later in other repo 
-for now good bye, best of luch for your future dear 
+for now good bye, best of luck for your future dear 
