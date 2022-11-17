@@ -1,4 +1,5 @@
-// Enter array element at beginning (size and value you want to insert is dynamic)
+--------------------------------------------------------------------------------------------------------------------------------
+// 1)Enter array element at beginning (size and value you want to insert is dynamic)
 
 #include<stdio.h>
 
@@ -23,3 +24,5 @@ int main(){
         printf("Array [%d] = %d\n",i,arr[i]);
     }
 }
+--------------------------------------------------------------------------------------------------------------------------------
+
