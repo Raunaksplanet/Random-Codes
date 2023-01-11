@@ -9,7 +9,7 @@ int main()
    cout << "Enter 2 numbers: ";
    cin >> a;
    cin >> b;
-   printf("Max value is: %d",max(a,b));
+   cout << "Max value is: " << max(a,b);
 }
 
 int max(int x,int y)
