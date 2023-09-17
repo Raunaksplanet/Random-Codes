@@ -16,8 +16,20 @@ public class Swing_Module {
 
         ImageIcon img = new ImageIcon("logo.png"); // Creating ImageIcon class object to set image.
         fm.setIconImage(img.getImage()); // Setting up the image using setIconImage() & getImage() functions.
-        
+
         fm.getContentPane().setBackground(new Color(204, 197, 185)); // setting up the color.
+
+
+        // 2.Basic of JLabel class.
+        // 2.1.Adding Text in GUI Application.
+        
+        // ImageIcon img2 = new ImageIcon("logo.png"); // Creating ImageIcon class object to set image.
+        JLabel fl = new JLabel();
+        fl.setText("Hello, Raunak Gupta");
+        fl.setIcon(img);
+        fm.add(fl);
+        fm.revalidate();
+        // fm.repaint();
 
 
 
