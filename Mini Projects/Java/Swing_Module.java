@@ -25,11 +25,34 @@ public class Swing_Module {
         
         // ImageIcon img2 = new ImageIcon("logo.png"); // Creating ImageIcon class object to set image.
         JLabel fl = new JLabel();
-        fl.setText("Hello, Raunak Gupta");
+        JLabel fl2 = new JLabel();
+        fl.setText("Hello there");
+        fl2.setText("Honey");
+        add(fl);
         fl.setIcon(img);
-        fm.add(fl);
-        fm.revalidate();
-        // fm.repaint();
+        revalidate();
+        add(fl2);
+
+
+        fl2.setHorizontalTextPosition(JLabel.CENTER);
+        fl2.setVerticalTextPosition(JLabel.TOP);
+        
+        fl2.setVerticalAlignment(JLabel.CENTER);
+        fl2.setHorizontalAlignment(JLabel.CENTER);
+        
+        
+        // fl2.setHorizontalAlignment(JLabel.LEFT);
+
+
+        fl.setHorizontalTextPosition(JLabel.CENTER);
+        fl.setVerticalTextPosition(JLabel.TOP);
+        
+        fl.setVerticalAlignment(JLabel.TOP);
+        fl.setHorizontalAlignment(JLabel.CENTER);
+        
+        
+        fl.setFont(new Font("Segoe UI",Font.BOLD,20));
+        fl2.setFont(new Font("Segoe UI",Font.ITALIC,30));
 
 
 
