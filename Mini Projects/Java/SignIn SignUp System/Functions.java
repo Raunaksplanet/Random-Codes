@@ -19,8 +19,11 @@ public class Functions {
     }
 
     public static int CheckPass(String str2){
-        if(str2.length() <= 8){
-            return 1;
+        if(str2.length() <= 7){
+            return 11;
+        }
+        else{
+            return 10;
         }
     }
 

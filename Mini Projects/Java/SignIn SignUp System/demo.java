@@ -1,8 +1,23 @@
+import java.util.Random;
+import java.io.File;
+import java.io.Writer;
+
 public class demo {
     public static void main(String[] args) {
-        String str = "raunakgupta@gmail.com";
-        boolean bl = str.endsWith("@gmail.com");
+        Random rd = new Random();
+        int n = rd.nextInt(100);
 
-        System.out.print(bl);
+        File fol = new File("User Data");
+        fol.mkdir();
+
+        File fl = new File("User Data\\User");
+        try{
+            fl.createNewFile();
+        }catch(Exception e){
+            e.toString();
+        }
+
+        
+
     }
 }
