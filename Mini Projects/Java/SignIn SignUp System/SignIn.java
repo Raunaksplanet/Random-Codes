@@ -4,16 +4,8 @@ import java.io.File;
 
 public class SignIn {
     Scanner sc = new Scanner(System.in);
-
-    // Function to make directory in the beginning of the program.
-    public void MakeDir() {
-        File dir = new File("User's Data");
-        try {
-            dir.mkdir();
-        } catch (Exception e) {
-            e.toString();
-        }
-    }
+    Functions fc = new Functions();
+    
     // importing Random Module and generating User credential file.
     Random rd = new Random();
     int n = rd.nextInt(100);
@@ -22,13 +14,18 @@ public class SignIn {
 
     // Method to get Credential from user
     public void GetDetails() {
-        System.out.print("\033[H\033[2J");
         String gmail, username, password;
-        
+
         System.out.println("Enter Account Details");
         System.out.print("Gmail: ");
         gmail = sc.next();
-
+        if(fc.CheckMail(gmail) == false){
+            System.out.print("\033[H\033[2J");
+            System.out.println("\tInvalid Email");
+            GetDetails();
+        }
+        
+        
         System.out.print("User Name: ");
         username = sc.nextLine();
         sc.nextLine();

@@ -6,9 +6,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         SignIn si = new SignIn();
         SignUp su = new SignUp();
+        Functions fc = new Functions();
 
-        // Generating directory to store users credential.
-        si.MakeDir();
 
         System.out.println("\tJava SignUp/SignIn System");
         System.out.println("1.SignUp\n2.SignIn\n3.Exit");
