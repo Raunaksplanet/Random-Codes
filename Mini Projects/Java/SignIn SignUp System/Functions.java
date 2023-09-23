@@ -18,6 +18,15 @@ public class Functions {
         return n;
     }
 
+    public static int CheckPass(String str2){
+        if(str2.length() <= 7){
+            return 11;
+        }
+        else{
+            return 10;
+        }
+    }
+
     public static void main(String args[]) {
 
     }
