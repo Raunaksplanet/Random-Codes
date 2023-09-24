@@ -10,7 +10,7 @@ public class Main {
 
 
         System.out.println("\tJava SignUp/SignIn System");
-        System.out.println("1.SignUp\n2.SignIn\n3.Exit");
+        System.out.println("1.SignUp\t2.SignIn\n3.Exit");
         System.out.print("Select Option: ");
         int n = sc.nextInt();
 
