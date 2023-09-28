@@ -18,3 +18,6 @@ Welcome to my repository of random code snippets! This collection features a var
 | Java Mini Project      | ☕ Explore my mini projects in Java.           | [![Projects](https://img.shields.io/badge/☕-Java-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/Mini%20Projects/Java) |
 | **Fun VBS & BAT Scripts** |                                            |                                                          |
 | VBS & BAT Scripts      | 🦇 Check out some fun VBS and BAT scripts.     | [![Scripts](https://img.shields.io/badge/🦇-VBS%20%26%20BAT-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/VBS%20%26%20BAT%20Fun%20Scripts) |
+| **Commands** |                                            |                                                          |
+| Window & Linux      | 👙 Window and Linux Commmands.     | [![Scripts](https://img.shields.io/badge/🦇-VBS%20%26%20BAT-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/VBS%20%26%20BAT%20Fun%20Scripts) |
+
