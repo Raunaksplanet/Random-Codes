@@ -212,3 +212,5 @@
 | 101 | **clip** 📎  | Copy all the data in clipboard.                   |
 | 102 | **findstr** 🧵    | Find a particular string in output.          |
 | 103 | **Explorer .** 📂    | Open Folder for the current location.          |
+| 104 | **prompt name$G** ⬛    | Change prompt name.          |
+| 105 | **title ** ▶️    | Change title name.          |
