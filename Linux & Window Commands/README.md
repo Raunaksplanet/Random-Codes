@@ -106,3 +106,106 @@
 | `history \| grep [keyword] `                     | Search command history for a keyword. 📜🔍    |
 | `chsh`                                          | Change your default shell. 📄🔄             |
 
+# Top 100 Window Commands
+| #   | Command                | Description                                   |
+|-----|------------------------|-----------------------------------------------|
+| 1   | **cd** 📂             | Change directory.                             |
+| 2   | **dir** 📁            | List files and folders.                       |
+| 3   | **cls** 🧹            | Clear the screen.                             |
+| 4   | **md** 📁             | Create a new directory.                       |
+| 5   | **rd** 🗑️            | Remove a directory.                           |
+| 6   | **copy** 📋           | Copy files.                                   |
+| 7   | **move** 🚚           | Move files.                                   |
+| 8   | **rename** 🔄         | Rename files or folders.                     |
+| 9   | **del** 🗑️           | Delete files.                                 |
+| 10  | **type** 📄          | Display the contents of a text file.         |
+| 11  | **echo** 🗣️          | Display a message or enable/disable echoing. |
+| 12  | **ipconfig** 🌐      | Display network configuration.                |
+| 13  | **ping** 🏓          | Test network connectivity.                    |
+| 14  | **netstat** 📊       | Display network statistics.                   |
+| 15  | **tracert** 🛤️      | Trace the route to a remote host.             |
+| 16  | **shutdown** 🚀     | Shut down or restart the computer.           |
+| 17  | **tasklist** 📋      | List running processes.                       |
+| 18  | **taskkill** 💀     | Terminate running processes.                  |
+| 19  | **systeminfo** ℹ️   | Display system information.                   |
+| 20  | **hostname** 🏠     | Display the computer's hostname.              |
+| 21  | **sfc /scannow** 🧹 | Check and repair system files.                |
+| 22  | **chkdsk** 🛠️       | Check and repair disk errors.                 |
+| 23  | **format** 💾       | Format a disk.                                |
+| 24  | **xcopy** 📋📂     | Copy files and directories with extended options. |
+| 25  | **robocopy** 🤖     | Robust file and directory copying tool.      |
+| 26  | **diskpart** 💽     | Disk partition management tool.              |
+| 27  | **net use** 🌐      | Connect to or disconnect from shared resources. |
+| 28  | **net user** 👤     | Manage user accounts.                         |
+| 29  | **net group** 👥    | Manage groups.                                |
+| 30  | **net view** 👁️    | List shared resources on a network.           |
+| 31  | **net start** ▶️    | Start a service.                              |
+| 32  | **net stop** ⏹️     | Stop a service.                               |
+| 33  | **netsh** ⚙️       | Network configuration tool.                   |
+| 34  | **sc** 🛠️           | Service Control Manager.                      |
+| 35  | **regedit** 🖥️     | Registry Editor.                              |
+| 36  | **gpupdate** 🔄    | Update Group Policy settings.                 |
+| 37  | **taskmgr** 📊     | Open Task Manager.                            |
+| 38  | **msconfig** 🛠️   | System Configuration Utility.                 |
+| 39  | **calc** 🧮         | Calculator.                                   |
+| 40  | **notepad** 📝     | Open Notepad.                                 |
+| 41  | **wmic** 🖥️        | Windows Management Instrumentation Command-line. |
+| 42  | **powercfg** ⚡     | Power Configuration tool.                     |
+| 43  | **shutdown** 🚀     | Shutdown or restart the computer.             |
+| 44  | **systeminfo** ℹ️   | Display detailed system information.           |
+| 45  | **eventvwr** 📅     | Event Viewer.                                 |
+| 46  | **gpedit.msc** 📜   | Group Policy Editor.                          |
+| 47  | **control** 🏢     | Open Control Panel.                           |
+| 48  | **msinfo32** 📋🖥️ | System Information.                           |
+| 49  | **schtasks** ⏰    | Task Scheduler.                               |
+| 50  | **subst** 🔗        | Associate a path with a drive letter.         |
+| 51  | **netstat -an** 📊 | Display all active network connections.       |
+| 52  | **telnet** 🌐       | Telnet client for connecting to remote systems. |
+| 53  | **nslookup** 🌐    | Look up IP addresses or domain names.         |
+| 54  | **assoc** 🔄        | Display or modify file extension associations. |
+| 55  | **attrib** 📃      | Display or change file attributes.            |
+| 56  | **tree** 🌳        | Display folder structure as a tree.           |
+| 57  | **fc** 🔄           | Compare two files or sets of files.           |
+| 58  | **find** 🔍         | Search for text within files.                 |
+| 59  | **gpupdate /force** 🔄 | Force an immediate Group Policy update.   |
+| 60  | **cipher** 🔒      | Encrypt or decrypt files and folders.         |
+| 61  | **perfmon** 📈     | Performance Monitor.                          |
+| 62  | **reg add** 🖥️     | Add a new registry entry.                     |
+| 63  | **reg delete** 🗑️ | Delete a registry entry.                      |
+| 64  | **reg query** 📊   | Query the registry for information.           |
+| 65  | **reg export** 📦  | Export registry keys and values.              |
+| 66  | **reg import** 📤  | Import registry keys and values.              |
+| 67  | **reg save** 📥    | Save a copy of the registry.                  |
+| 68  | **reg restore** 🔄 | Restore the registry from a backup.           |
+| 69  | **sc config** ⚙️  | Configure a service.                          |
+| 70  | **sc delete** 🗑️  | Delete a service.                             |
+| 71  | **sc query** 📋    | Query service status.                         |
+| 72  | **sc start** ▶️    | Start a service.                              |
+| 73  | **sc stop** ⏹️     | Stop a service.                               |
+| 74  | **sc create** 📋   | Create a new service.                         |
+| 75  | **convert** 🔄📂  | Convert file systems (e.g., FAT to NTFS).     |
+| 76  | **sfc /verifyonly** 🧹 | Verify system files without repairing them. |
+| 77  | **tasklist /svc** 📋🔌 | List processes with services.               |
+| 78  | **driverquery** 🚗 | List installed device drivers.                |
+| 79  | **wmic process** 🖥️ | Manage processes using WMI.                 |
+| 80  | **wmic logicaldisk** 🖥️💽 | Manage disk drives using WMI.            |
+| 81  | **wmic startup** 🖥️🚀 | Manage startup programs using WMI.      |
+| 82  | **wmic useraccount** 🖥️👤 | Manage user accounts using WMI.     |
+| 83  | **wmic bios** 🖥️⚙️ | Access BIOS information using WMI.      |
+| 84  | **wmic os** 🖥️💽 | Access operating system information using WMI. |
+| 85  | **wmic diskdrive** 🖥️💽💾 | Access disk drive information using WMI. |
+| 86  | **wmic printer** 🖥️🖨️ | Manage printers using WMI.                |
+| 87  | **wmic service** 🖥️🔌 | Manage services using WMI.                |
+| 88  | **wbadmin** 📂🔄    | Windows Backup and Restore tool.              |
+| 89  | **netsh firewall** 🌐🔥 | Configure Windows Firewall.                |
+| 90  | **netsh wlan** 🌐📡 | Manage wireless networks.                     |
+| 91  | **netsh interface** 🌐🌐 | Configure network interfaces.             |
+| 92  | **regsvr32** 📁🖥️ | Register or unregister DLL files.             |
+| 93  | **assoc** 🔄📁      | Display or change file associations.          |
+| 94  | **cacls** 📂🔒      | Display or modify file or directory permissions. |
+| 95  | **subst** 🔗📂      | Map a drive letter to a folder path.          |
+| 96  | **wmic product** 🖥️📦 | List installed software.                  |
+| 97  | **wmic qfe** 🖥️🔄 | List installed Windows updates.               |
+| 98  | **bcdedit** 📋🖥️  | Edit boot configuration data.                 |
+| 99  | **chkntfs** 📋📂  | Check the NTFS file system.                   |
+| 100 | **fsutil** 📋🔧    | File and volume utilities.                    |
