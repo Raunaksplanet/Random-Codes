@@ -194,18 +194,20 @@
 | 83  | **wmic bios** 🖥️⚙️ | Access BIOS information using WMI.      |
 | 84  | **wmic os** 🖥️💽 | Access operating system information using WMI. |
 | 85  | **wmic diskdrive** 🖥️💽💾 | Access disk drive information using WMI. |
-| 86  | **wmic printer** 🖥️🖨️ | Manage printers using WMI.                |
-| 87  | **wmic service** 🖥️🔌 | Manage services using WMI.                |
-| 88  | **wbadmin** 📂🔄    | Windows Backup and Restore tool.              |
-| 89  | **netsh firewall** 🌐🔥 | Configure Windows Firewall.                |
-| 90  | **netsh wlan** 🌐📡 | Manage wireless networks.                     |
-| 91  | **netsh interface** 🌐🌐 | Configure network interfaces.             |
-| 92  | **regsvr32** 📁🖥️ | Register or unregister DLL files.             |
-| 93  | **assoc** 🔄📁      | Display or change file associations.          |
+| 86  | **wmic printer** 🖥️🖨️ | Manage printers using WMI.                 |
+| 87  | **wmic service** 🖥️🔌 | Manage services using WMI.                 |
+| 88  | **wbadmin** 📂🔄    | Windows Backup and Restore tool.             |
+| 89  | **netsh firewall** 🌐🔥 | Configure Windows Firewall.               |
+| 90  | **netsh wlan** 🌐📡 | Manage wireless networks.                    |
+| 91  | **netsh interface** 🌐🌐 | Configure network interfaces.           |
+| 92  | **regsvr32** 📁🖥️ | Register or unregister DLL files.              |
+| 93  | **assoc** 🔄📁      | Display or change file associations.         |
 | 94  | **cacls** 📂🔒      | Display or modify file or directory permissions. |
-| 95  | **subst** 🔗📂      | Map a drive letter to a folder path.          |
-| 96  | **wmic product** 🖥️📦 | List installed software.                  |
-| 97  | **wmic qfe** 🖥️🔄 | List installed Windows updates.               |
-| 98  | **bcdedit** 📋🖥️  | Edit boot configuration data.                 |
-| 99  | **chkntfs** 📋📂  | Check the NTFS file system.                   |
+| 95  | **subst** 🔗📂      | Map a drive letter to a folder path.         |
+| 96  | **wmic product** 🖥️📦 | List installed software.                   |
+| 97  | **wmic qfe** 🖥️🔄 | List installed Windows updates.                |
+| 98  | **bcdedit** 📋🖥️  | Edit boot configuration data.                  |
+| 99  | **chkntfs** 📋📂  | Check the NTFS file system.                    |
 | 100 | **fsutil** 📋🔧    | File and volume utilities.                    |
+| 101 | **clip** 📋📂  | Copy all the data in clipboard.                   |
+| 102 | **findstr** 📋🔧    | Find a particular string in output.          |
