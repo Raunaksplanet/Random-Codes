@@ -209,5 +209,6 @@
 | 98  | **bcdedit** 📋🖥️  | Edit boot configuration data.                  |
 | 99  | **chkntfs** 📋📂  | Check the NTFS file system.                    |
 | 100 | **fsutil** 📋🔧    | File and volume utilities.                    |
-| 101 | **clip** 📋📂  | Copy all the data in clipboard.                   |
-| 102 | **findstr** 📋🔧    | Find a particular string in output.          |
+| 101 | **clip** 📎  | Copy all the data in clipboard.                   |
+| 102 | **findstr** 🧵    | Find a particular string in output.          |
+| 103 | **Explorer .** 📂    | Open Folder for the current location.          |
