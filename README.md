@@ -19,5 +19,5 @@ Welcome to my repository of random code snippets! This collection features a var
 | **Fun VBS & BAT Scripts** |                                            |                                                          |
 | VBS & BAT Scripts      | 🦇 Check out some fun VBS and BAT scripts.     | [![Scripts](https://img.shields.io/badge/🦇-VBS%20%26%20BAT-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/VBS%20%26%20BAT%20Fun%20Scripts) |
 | **Commands** |                                            |                                                          |
-| Window & Linux      | 👙 Window and Linux Commmands.     | [![Scripts](https://img.shields.io/badge/🦇-VBS%20%26%20BAT-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/VBS%20%26%20BAT%20Fun%20Scripts) |
+| Window & Linux      | 👙 Window and Linux Commmands.     | [![Commands](https://img.shields.io/badge/🦇-VBS%20%26%20BAT-blue)](https://github.com/Raunaksplanet/Random-Codes/tree/main/Linux%20%26%20Window%20Commands) |
 
