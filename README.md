@@ -1,2 +1,3 @@
-# Extra-questions-by-me
-Nothing special just another repo for store weekly challange questions hehe 
+# Random Codes By Me
+Here i stored some random codes from different programming 
+languages like python, C/C++, Java and many more.
