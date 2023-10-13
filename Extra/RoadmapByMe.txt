@@ -1,5 +1,25 @@
 1.Linux:
-        1.1.Linux command Line: 
-        1.2.Linux File System: Some Useful Links: • https://www.youtube.com/watch?v=BUnb1PKKMBA (NeuralNine)
-                                                   • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka)
-                                                   • https://www.youtube.com/watch?v=A3G-3hp88mo&list=LL&index=399 (NetworkChuck)
+        1.1.Linux command Line: • https://www.youtube.com/watch?v=U1w4T03B30I&list=LL&index=386 (The Cyber Mentor)
+                                • https://www.youtube.com/watch?v=ZtqBQ68cfJc&list=LL&index=404 (freeCodeCamp.org)
+                                • https://www.youtube.com/watch?v=rZsJieGi8os&list=LL&index=406 (The Cyber Mentor)
+                                • https://www.youtube.com/watch?v=rZsJieGi8os&list=LL&index=406 (HackerSploit)
+                                                   
+
+        1.2.Linux File System:  • https://www.youtube.com/watch?v=BUnb1PKKMBA (NeuralNine)
+                                • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka)
+                                • https://www.youtube.com/watch?v=A3G-3hp88mo&list=LL&index=399 (NetworkChuck)
+
+
+        1.3.Linux Learning/Helping resources:  • https://linuxjourney.com/
+                                               • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka CS videos)
+                                               • https://explainshell.com/# (Explain Shells commands)
+
+
+
+1.Extra Learning Resources: • https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d (TryHackMe labs list)
+                              https://github.com/rng70/TryHackMe-Roadmap#intro-rooms
+
+                            • https://www.mindluster.com/certificate/8787/Cyber-Security (Cyber security free content)
+                            
+                            • https://blog.intigriti.com/category/bugbytes/ (Cyber Secuirty blogs reading)
+                              https://weekly.infosecwriteups.com/
