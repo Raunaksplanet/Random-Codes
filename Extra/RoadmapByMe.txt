@@ -1,4 +1,5 @@
 1.Linux:
-        1.1.Linux command Line:
-                              Some Useful Links: 
-        1.2.Linux File System: 
+        1.1.Linux command Line: 
+        1.2.Linux File System: Some Useful Links: • https://www.youtube.com/watch?v=BUnb1PKKMBA (NeuralNine)
+                                                   • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka)
+                                                   • https://www.youtube.com/watch?v=A3G-3hp88mo&list=LL&index=399 (NetworkChuck)
