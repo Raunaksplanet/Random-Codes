@@ -23,3 +23,15 @@
                             
                             • https://blog.intigriti.com/category/bugbytes/ (Cyber Secuirty blogs reading)
                               https://weekly.infosecwriteups.com/
+
+
+1.CS certifications: • Comptia
+                              • A+
+                              • Security+
+                              • Network+
+                              • Linux+
+                              • Pentest+
+                              • CySa+
+                     • EC-COUNCIL
+                              • CEH (Certified Ethical hacker)
+
