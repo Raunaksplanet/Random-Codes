@@ -1,59 +1,29 @@
 1. Security Analyst: 
-Security analysts monitor an organization's network and systems for security threats,
-analyze security data, and respond to incidents. They often work in a Security Operations Center (SOC).
 
 2. Security Engineer: 
-Security engineers design, implement, and manage security solutions such as firewalls, intrusion
-detection systems, and encryption protocols. They also conduct security assessments and vulnerability testing.
 
 3. Penetration Tester (Ethical Hacker): 
-Penetration testers are hired to simulate cyberattacks on an organization's systems to identify vulnerabilities 
-and weaknesses that could be exploited by malicious hackers. They help organizations strengthen their security measures.
 
 4. Security Consultant: 
-Security consultants provide expert advice to organizations on how to improve their cybersecurity posture. 
-They assess security risks, recommend solutions, and develop security policies and procedures.
 
 5. Security Architect: 
-Security architects design the overall security infrastructure and strategy for an organization. They ensure 
-that all security components work together effectively to protect the organization's assets.
 
 6. Incident Responder: 
-Incident responders are responsible for managing and mitigating security incidents, such as data breaches or 
-malware outbreaks. They investigate the root cause and coordinate the response.
 
 7. Security Auditor/Compliance Analyst: 
-These professionals assess an organization's adherence to security standards and regulations. They conduct audits,
-ensure compliance with policies, and prepare for regulatory inspections.
 
 8. Security Operations Manager: 
-Security operations managers oversee the day-to-day activities of a SOC. They manage the security team, coordinate 
-incident responses, and ensure the effectiveness of security measures.
 
 9. Security Awareness Trainer: 
-These individuals educate employees about cybersecurity best practices and help raise awareness of security threats
-within an organization. They often conduct training sessions and awareness campaigns.
 
 10. Forensic Analyst: 
-Forensic analysts investigate cybercrimes and security incidents. They collect and analyze digital evidence to 
-determine the scope and impact of an incident.
 
 11. Security Software Developer: 
-Security-focused software developers create and maintain security tools and applications used to protect systems 
-and data. They need to understand both software development and cybersecurity principles.
 
 12. CISO (Chief Information Security Officer): 
-CISOs are top-level executives responsible for the overall cybersecurity strategy of an organization. They make 
-critical decisions regarding security investments, policies, and risk management.
 
 13. Security Researcher: 
-Security researchers work to discover new vulnerabilities, threats, and attack techniques. They often contribute 
-to the cybersecurity community by sharing their findings and helping to develop countermeasures.
 
 14. Threat Intelligence Analyst: 
-These analysts gather information about emerging threats and vulnerabilities to help organizations proactively
-defend against cyberattacks. They monitor threat actors and assess their capabilities and intentions.
 
 15. Cybersecurity Trainer/Educator: 
-Educators and trainers in cybersecurity teach the next generation of cybersecurity professionals through academic 
-programs, training courses, or workshops.
