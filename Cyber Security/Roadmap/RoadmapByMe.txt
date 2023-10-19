@@ -31,7 +31,9 @@
                               • Network+
                               • Linux+
                               • Pentest+
-                              • CySa+
+                              • CySa+ (Cybersecurity Analyst)
+                              • casp+ (Advance Security Practitioner)
+                              • ITF+ (IT Fundamentals)
                      • EC-COUNCIL
                               • CEH (Certified Ethical hacker)
 
