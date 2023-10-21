@@ -30,3 +30,8 @@
           2.3.5 wsl --online, -o             : Displays a list of available distributions for install with 'wsl.exe --install'.
           2.4 wsl --set-default, -s <Distro> : to set default distro.
           
+## 3. Wslg installation
+          3.1 Open linux distribuaton & update & upgrade your distro.
+          3.2 Sudo apt install kali-win-kex
+          3.3 After installing win-kex fill required information 
+          3.4 To start gui type Kex in terminal.
