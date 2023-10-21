@@ -20,8 +20,8 @@
 
 ## 2. Extra Wsl commands to get started
           2.1 wsl --update      : To update the wsl version.
-          2.2 wsl -v, --version : To get all the info about wsl, wslg, kernel version.
-          2.3 wsl -l, --list    : To get list of all distribution installed.
+          2.2 wsl --version, -v : To get all the info about wsl, wslg, kernel version.
+          2.3 wsl --list, -l    : To get list of all distribution installed.
           2.4 wsl --all         : List all distributions, including distributions that are currently being installed or uninstalled.
           2.5 wsl --running     : List only distributions that are currently running.
           2.6 wsl --quiet, -q   : Only show distribution names.
