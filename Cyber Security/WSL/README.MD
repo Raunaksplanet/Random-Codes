@@ -13,4 +13,10 @@
                • Windows Subsystem for Linux
                • Your favourite Linux Distribution (Ubuntu, kali Linux, debian, oracle, arch etc)
 
-          1.5 After installing Linux distribution open the Linux app and install the linux distribuation.
+          1.5. open the Linux app and install the linux distribuation.
+
+          1.6. Restart your pc
+
+          1.7. Installation Complete.
+
+
