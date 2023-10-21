@@ -35,3 +35,42 @@
           3.2 Sudo apt install kali-win-kex
           3.3 After installing win-kex fill required information 
           3.4 To start gui type Kex in terminal.
+
+## 3. Additional info in Wslg 
+          Mode:
+                [none]           : Window Mode (default)
+                --esm            : Enhanced Session Mode - Launch Win-KeX desktop in a dedicated window using Windows native RDP
+                --sl             : SeamLess mode - Seamlessly integrate Win-KeX into the Windows desktop
+                --win            : WINdow mode - Launch Win-KeX desktop in a dedicated window
+
+                Command:
+                [none]           : Start Win-KeX server and launch Win-KeX client
+                --start          : Start Win-KeX server
+                --start-client   : Start Win-KeX client
+                --wtstart        : Start Win-KeX server and launch Win-KeX client in Windows Terminal session
+                --stop           : Stop Win-KeX server
+                --status         : Show Win-KeX server status
+                --kill           : Stop Win-KeX server and kill all related processes
+                --passwd         : Set Win-KeX server password
+                --start-sound    : Start Windows sound server
+                --stop-sound     : Stop Windows sound server
+                --wslg-restore   : Restore WSLg unix socket
+                --wslg-remove    : Remove WSLg unix socket
+                --wslg-status    : Display status of WSLg unix socket
+                --version        : Display Win-KeX version
+                --help           : Display this help
+
+                (Optional) Parameters:
+                --ip            -i : Use container IP address instead of "localhost"
+                --multiscreen   -m : Optimized for multiscreen
+                --sound         -s : Sound support
+                --nowgl         -n : Disable Windows OpenGL
+                --norc          -r : Disable Win-KeX client reconnecting - once is enough!
+                --wait          -w : Wait longer for desktop to start when in SL mode
+                --verbose          : Verbose output
+
+        Examples:
+                kex -s           : Start Win-KeX server in window mode and launch Win-KeX client with sound support
+                kex --sl -s      : Start Win-KeX in seamless mode and launch Win-KeX client with sound support
+                kex --esm -i -s  : Start Win-KeX in Enhanced Session Mode with ARM workaround and launch Win-KeX client with sound support
+                sudo kex         : Start Win-KeX server as root in window mode and launch Win-KeX client
