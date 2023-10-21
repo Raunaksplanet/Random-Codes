@@ -1,6 +1,6 @@
 # Wsl Guide (Windows System for linux)
-## 1. Installation   
 
+##1. Installation   
           1.1 Enable these two features in Windows Feature app.
               • Windows Subsystem for Linux
               • Virtual Machine Platform
