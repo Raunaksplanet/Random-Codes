@@ -18,6 +18,7 @@
 
 1.Extra Learning Resources: • https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d (TryHackMe labs list)
                               https://github.com/rng70/TryHackMe-Roadmap#intro-rooms
+                              https://bugbountyguide.org/top-tryhackme-topic-wise-categorized-tryhackmes-rooms-list/
 
                             • https://www.mindluster.com/certificate/8787/Cyber-Security (Cyber security free content)
                             
