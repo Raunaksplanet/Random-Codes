@@ -23,6 +23,7 @@
                             
                             • https://blog.intigriti.com/category/bugbytes/ (Cyber Secuirty blogs reading)
                               https://weekly.infosecwriteups.com/
+                              https://tryhackme.com/r/resources/newsroom (TryHackMe)
 
 
 1.CS certifications: • Comptia
