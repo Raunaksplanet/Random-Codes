@@ -14,15 +14,49 @@
                                                • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka CS videos)
                                                • https://explainshell.com/# (Explain Shells commands)
 
+2.Programming Languges for Cyber Sec:
+              • Web
+                • HTML
+                • JS
+                • PHP & MYSQL
+
+              • General Programming Language
+                • C/C++
+                • Java
+
+              • Scripting Language
+                • Python
+                • Bash
+                • PowerShell
+                • Ruby 
+                • Perl
+
+              • Reverse Engineering
+                • Assembly 
+
+2.Programming Languges Learning: • (C++)
+                                    Example Programs:         https://www.geeksforgeeks.org/c-programming-examples/?ref=shm
+                                    Top 50 Array Questions:   https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
+                                    Top 50 String Questions:  https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/?ref=footer
+                                    Practice:                 https://practice.geeksforgeeks.org/explore?page=1&difficulty[]=-1&sortBy=submissions&utm_source=auth&utm_medium=profile&utm_campaign=empty-data
+                                    Intro to String:          https://www.geeksforgeeks.org/complete-guide-to-string-data-structure/?ref=footer
+                                    Intro to Array:           https://www.geeksforgeeks.org/complete-guide-to-arrays-data-structure/?ref=footer
+                                  
+                                 • (Java)
+                                    Example Programs:         https://www.geeksforgeeks.org/java-programming-examples/?ref=shm
+
+                                • Programming Questions
+                                  https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
+                                
 
 
-1.Extra Learning Resources: • https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d (TryHackMe labs list)
+1.Extra Learning Resources: • (TryHackMe labs list)
+                              https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d 
                               https://github.com/rng70/TryHackMe-Roadmap#intro-rooms
                               https://bugbountyguide.org/top-tryhackme-topic-wise-categorized-tryhackmes-rooms-list/
-
-                            • https://www.mindluster.com/certificate/8787/Cyber-Security (Cyber security free content)
                             
-                            • https://blog.intigriti.com/category/bugbytes/ (Cyber Secuirty blogs reading)
+                            • (Cyber Security blogs reading)
+                              https://blog.intigriti.com/category/bugbytes/ 
                               https://weekly.infosecwriteups.com/
                               https://tryhackme.com/r/resources/newsroom (TryHackMe)
 
@@ -52,4 +86,3 @@
                                     
 1.CS Internship: • Comptia
                     • TechnoHacks EduTech (https://www.technohacks.co.in/)
-                              
