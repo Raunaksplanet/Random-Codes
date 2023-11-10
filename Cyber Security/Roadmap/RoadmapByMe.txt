@@ -44,6 +44,8 @@
                                   
                                  • (Java)
                                     Example Programs:         https://www.geeksforgeeks.org/java-programming-examples/?ref=shm
+                                 • (Python)
+                                    Example Programs:         https://www.geeksforgeeks.org/python-programming-examples/#simple
 
                                 • Programming Questions
                                   https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
