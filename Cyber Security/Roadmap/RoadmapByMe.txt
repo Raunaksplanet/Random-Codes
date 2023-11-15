@@ -44,12 +44,19 @@
                                   
                                  • (Java)
                                     Example Programs:         https://www.geeksforgeeks.org/java-programming-examples/?ref=shm
+
                                  • (Python)
                                     Example Programs:         https://www.geeksforgeeks.org/python-programming-examples/#simple
 
                                 • Programming Questions
                                   https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
                                 
+Intentionally Vulnerable Applications to Practice: • TryHackMe (All Type Labs) https://tryhackme.com/
+                                                   • HackTheBox (All Type Labs) https://www.hackthebox.com/
+                                                   • WsCubeTeach (Tutorials Freak & art2hack) https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
+                                                   • VulnHub (OS Related) https://www.vulnhub.com/
+                                                   • PortSwigger (Web Related) https://portswigger.net/
+                                                   • metasploitable (Linux) 
 
 
 1.Extra Learning Resources: • (TryHackMe labs list)
@@ -85,6 +92,6 @@
                                         • IBM Cybersecurity Analyst Professional Certificate (https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst#testimonials)
                                         • Google Cybersecurity Professional Certificate (https://www.coursera.org/professional-certificates/google-cybersecurity#testimonials)
                                         • Python for Cybersecurity Specialization (https://www.coursera.org/specializations/pythonforcybersecurity#courses)
-                                    
-1.CS Internship: • Comptia
-                    • TechnoHacks EduTech (https://www.technohacks.co.in/)
+
+
+1.CS Internship: • TechnoHacks EduTech (https://www.technohacks.co.in/)
