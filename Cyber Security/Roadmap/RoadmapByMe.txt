@@ -47,27 +47,27 @@
 
                                  • (Python)
                                     Example Programs:         https://www.geeksforgeeks.org/python-programming-examples/#simple
+				                            GeeksForGeeks	            https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/
+				                            Projects	                https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=shm
 
                                 • Programming Questions
                                   https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
                                 
-Intentionally Vulnerable Applications to Practice: • TryHackMe (All Type Labs) https://tryhackme.com/
-                                                   • HackTheBox (All Type Labs) https://www.hackthebox.com/
-                                                   • WsCubeTeach (Tutorials Freak & art2hack) https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
-                                                   • VulnHub (OS Related) https://www.vulnhub.com/
-                                                   • PortSwigger (Web Related) https://portswigger.net/
-                                                   • metasploitable (Linux) 
 
 
-1.Extra Learning Resources: • (TryHackMe labs list)
-                              https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d 
-                              https://github.com/rng70/TryHackMe-Roadmap#intro-rooms
-                              https://bugbountyguide.org/top-tryhackme-topic-wise-categorized-tryhackmes-rooms-list/
-                            
-                            • (Cyber Security blogs reading)
-                              https://blog.intigriti.com/category/bugbytes/ 
-                              https://weekly.infosecwriteups.com/
-                              https://tryhackme.com/r/resources/newsroom (TryHackMe)
+
+1.Youtube CS Course/Playlist: • freeCodeCamp (https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
+
+
+
+
+Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe https://tryhackme.com/
+                                                                    • HackTheBox https://www.hackthebox.com/
+                                                                    • PicoCTF https://picoctf.org/ 
+                                                                    • WsCubeTeach (Tutorials Freak & art2hack) https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
+                                                                    • VulnHub (OS Related) https://www.vulnhub.com/
+                                                                    • PortSwigger (Web Related) https://portswigger.net/
+                                                                    • metasploitable (Linux) 
 
 
 1.CS certifications: • Comptia
@@ -93,5 +93,3 @@ Intentionally Vulnerable Applications to Practice: • TryHackMe (All Type Labs)
                                         • Google Cybersecurity Professional Certificate (https://www.coursera.org/professional-certificates/google-cybersecurity#testimonials)
                                         • Python for Cybersecurity Specialization (https://www.coursera.org/specializations/pythonforcybersecurity#courses)
 
-
-1.CS Internship: • TechnoHacks EduTech (https://www.technohacks.co.in/)
