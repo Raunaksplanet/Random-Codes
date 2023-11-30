@@ -56,17 +56,19 @@
 
 
 
-1.Youtube CS Course/Playlist: • freeCodeCamp (https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
+1.Youtube CS Course/Playlist: • freeCodeCamp: PicoCTF                      (https://www.youtube.com/watch?v=uIkxsBgkpj8&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=3)
+                                              Web App Penetration Testing  (https://www.youtube.com/watch?v=2_lswM1S264&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=4&t=39s)
+                              • The Cyber Expert: Python For CyberSec      (https://www.youtube.com/playlist?list=PL-DxAN1jsRa-VpfPWjnaN5jz_e2wM0o3V)
 
 
 
 
-Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe https://tryhackme.com/
-                                                                    • HackTheBox https://www.hackthebox.com/
-                                                                    • PicoCTF https://picoctf.org/ 
-                                                                    • WsCubeTeach (Tutorials Freak & art2hack) https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
-                                                                    • VulnHub (OS Related) https://www.vulnhub.com/
-                                                                    • PortSwigger (Web Related) https://portswigger.net/
+Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
+                                                                    • HackTheBox                                https://www.hackthebox.com/
+                                                                    • PicoCTF                                   https://picoctf.org/ 
+                                                                    • WsCubeTeach (Tutorials Freak & art2hack)  https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
+                                                                    • VulnHub (OS Related)                      https://www.vulnhub.com/
+                                                                    • PortSwigger (Web Related)                 https://portswigger.net/
                                                                     • metasploitable (Linux) 
 
 
@@ -81,15 +83,3 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                               • ITF+ (IT Fundamentals)
                      • EC-COUNCIL
                               • CEH (Certified Ethical hacker)
-
-1.CS Free Beginner Certifications: • Great Learning
-                                        • Post Graduate Programme in Cyber Security (https://www.mygreatlearning.com/online-cyber-security-course)
-                                        • Introduction to Information Security (https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security)
-                                        • Introduction to Ethical Hacking (https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking)
-                                        • Career in Cybersecurity (https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-cybersecurity)
-                                        • Types of Cyber Security (https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security)
-                                   • Coursera
-                                        • IBM Cybersecurity Analyst Professional Certificate (https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst#testimonials)
-                                        • Google Cybersecurity Professional Certificate (https://www.coursera.org/professional-certificates/google-cybersecurity#testimonials)
-                                        • Python for Cybersecurity Specialization (https://www.coursera.org/specializations/pythonforcybersecurity#courses)
-
