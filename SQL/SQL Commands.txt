@@ -1,0 +1,223 @@
+1. Creating Database and Tables
+    CREATE DATABASE <Database name>;
+
+CREATE TABLE <Table name>(
+    column_name1 datatype constraints,
+    column_name2 datatype constraints,
+    column_name3 datatype constraints
+);
+
+2. Displaying all Databases/Tables
+    SHOW DATABASES;
+    SHOW TABLES;
+
+3. Deleting Database
+    DROP DATABASE <Database name>
+
+8. Deleting Tables
+    DROP TABLE <table name>
+
+4. Using Database
+    USE <Database name>
+
+6. Adding Data to tables
+    INSERT INTO <table name> VALUES (1,2,3);
+    INSERT INTO <table name> VALUES (4,5,6);
+            OR
+    INSERT INTO <table name> 
+    (table_value1, table_value2)
+    VALUES 
+    (1,2), 
+    (3,4), 
+    (5,6);
+
+
+7. Printing Tables
+    SELECT * FROM <table name>
+
+
+
+9. Data types
+CHAR        string(0-255), can store characters of fixed length                 CHAR(50)
+VARCHAR     string(0-255), can store characters up to given length              VARCHAR(50)
+BLOB        string(0-65535), can store binary large object                      BLOB(1000)
+INT         integer( -2,147,483,648 to 2,147,483,647 )                          INT
+TINYINT     integer(-128 to 127)                                                TINYINT
+BIGINT      integer( -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 )  BIGINT
+BIT         can store x-bit values. x can range from 1 to 64                    BIT(2)
+FLOAT       Decimal number - with precision to 23 digits                        FLOAT
+DOUBLE      Decimal number - with 24 to 53 digits                               DOUBLE
+BOOLEAN     Boolean values 0 or 1                                               BOOLEAN
+DATE        date in format of YYYY-MM-DD ranging from 1000-01-01 to 9999-12-31  DATE
+TIME        HH:MM:SS                                                            TIME
+YEAR        year in 4 digits format ranging from 1901 to 2155                   YEAR
+
+10. constraints: Use to specify rules in data.
+10.1. not null
+10.2. unique
+10.3. primary key
+10.4. Default
+10.5. Foreign key
+10.6. Check
+
+----- Example Data -----
+CREATE DATABASE college;
+USE college;
+CREATE TABLE student(
+	rollno INT PRIMARY KEY,
+	name VARCHAR(50),
+    marks INT NOT NULL,
+    grade VARCHAR(1),
+    city VARCHAR(20)
+);
+
+INSERT INTO STUDENT  (rollno, name, marks, grade, city) 
+VALUES (101,"anil",78,"C","Pune"),
+(102,"bhumika", 93, "A", "Mumbai"),
+(103,"chetan",  85, "B", "Mumbai"),
+(104,"dhruv",   96, "A", "Delhi"),
+(105,"emanuel", 12, "F", "Delhi"),
+(106,"farah",   82, "B", "Delhi");
+              
+USE college;
+SHOW tables;
+SELECT * FROM student;
+----- Example Data -----
+
+11. finding student with higher then 80 marks and they belong from delhi. 
+    SELECT rollno,name, marks FROM student WHERE marks >= 80 AND city="Delhi";
+
+12. Aggregate Function 
+    sum(), avg(), max(), min(), count()
+    GROUP BY , ORDER BY 
+
+12. Some More Claws
+    SELECT rollno,name, marks FROM student WHERE marks BETWEEN 70 AND 90;
+    SELECT rollno,name, marks FROM student WHERE city NOT IN ("Delhi", "Mumbai");
+    SELECT rollno,name, marks FROM student LIMIT 3;
+    SELECT rollno,name, marks FROM student ORDER BY marks ASC ;
+    SELECT rollno,name, marks FROM student ORDER BY marks DESC LIMIT 3 ;
+    SELECT grade, COUNT(grade) FROM student GROUP BY grade ORDER BY grade ASC;
+    SELECT city, AVG(marks) FROM student GROUP BY city ORDER BY AVG(marks) ASC;
+
+13. Updating table using "UPDATE" & "SET" keyword
+    Syntax:- Update <Table name> SET <Column name> WHERE <Column name>
+    Example:- UPDATE student SET grade = "O" WHERE grade = "A";
+
+    SET SQL_SAFE_UPDATES = 0;
+
+    UPDATE student SET marks = 82 WHERE name = "emanuel";
+
+    SELECT * FROM student;
+
+14. Deleting Rows
+    Syntax:- DELETE <table name> WHERE <condition>
+    Example:- DELETE FROM student WHERE rollno=107 OR rollno=108;
+
+15. Creating table with Foreign Key 
+
+CREATE TABLE dept(
+	id INT PRIMARY KEY,
+    name VARCHAR(50)
+);
+
+CREATE TABLE teachers(
+	id INT PRIMARY KEY,
+    name VARCHAR(50),
+    dept_id INT,
+    FOREIGN KEY (dept_id) REFERENCES dept(id)
+); 
+
+16. Cascading Foreign Key 
+16.1. (ON UPDATE CASCADE, ON DELETE CASCADE) being used to cascade foreign key 
+
+CREATE TABLE dept(
+	id INT PRIMARY KEY,
+    name VARCHAR(50)
+);
+
+CREATE TABLE teachers(
+	id INT PRIMARY KEY,
+    name VARCHAR(50),
+    dept_id INT,
+    FOREIGN KEY (dept_id) REFERENCES dept(id)
+    ON UPDATE CASCADE
+    ON DELETE CASCADE
+);
+
+16.2. Adding data to dept and teachers table. 
+    INSERT INTO dept 
+    VALUES (101,"Math"),
+    (102,"Computer"),
+    (103,"Science");
+
+    SELECT * FROM dept;
+
+    INSERT INTO teachers 
+    VALUES 
+    (111,"ajay",101),
+    (222,"singh",102),
+    (333,"mathur",103);
+
+    SELECT * FROM teachers;
+
+16.3 Updating data into dept table.
+    UPDATE DEPT SET id = 110 WHERE id = 101;
+    UPDATE DEPT SET ID = 220 WHERE ID = 102;
+    UPDATE DEPT SET ID = 330 WHERE ID = 103;
+    SELECT * FROM DEPT;
+    SELECT * FROM TEACHERS;
+
+17. ALTER TABLE
+    17.1. ADD COLUMN
+        ALTER TABLE <table name>
+        ADD COLUMN <column name> <data int> <constraints>
+    17.2. Modify Column
+        ALTER TABLE <table name>
+        MODIFY <column name> <data int> <constraints>
+    17.3. Rename Column
+        ALTER TABLE <table name>
+        CHANGE <column old name> <column new name> <data int> <constraints>
+    17.4. Drop Column 
+        ALTER TABLE <table name>
+        DROP COLUMN <column name> 
+    17.5. Rename Table
+        ALTER TABLE <table name>
+        RENAME TO <new table name>
+    Example Queries
+    ALTER TABLE student2 ADD COLUMN money INT NOT NULL DEFAULT 1000;
+    ALTER TABLE student2 CHANGE money length INT;
+    ALTER TABLE student2 DROP COLUMN length;
+    ALTER TABLE STUD2 RENAME TO student2;
+
+    
+18. CURRENT DATE & TIME Function
+    CREATE TABLE TAST(
+	MY_DATE DATE,
+    MY_TIME TIME,
+    MY_DATETIME DATETIME
+);
+
+    SELECT * FROM TAST;
+    INSERT INTO TAST VALUES (CURRENT_DATE(),CURRENT_TIME(), NOW());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
